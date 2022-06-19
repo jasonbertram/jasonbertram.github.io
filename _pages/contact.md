@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 **Email**  
-jxb@iu.edu
+jason.bertram@uwo.ca
 
 **Current Address**  
 Environmental Resilience Institute & Department of Biology 
