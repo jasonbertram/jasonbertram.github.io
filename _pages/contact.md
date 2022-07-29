@@ -13,9 +13,9 @@ redirect_from:
 jason.bertram@uwo.ca
 
 **Current Address**  
-Environmental Resilience Institute & Department of Biology 
-Indiana University  
-Bloomington, IN  
+Department of Mathematics 
+University of Western Ontario
+London, ON, Canada  
 
 
 
